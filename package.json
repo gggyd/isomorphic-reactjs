@@ -1,0 +1,30 @@
+{
+  "name": "isomorphic-reactjs-dome-keane",
+  "version": "0.0.1",
+  "description": "isomorphic-reactjs-demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.4.2",
+    "express": "^4.14.0",
+    "griddle-react": "^0.6.1",
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1"
+  },
+  "devDependencies": {
+    "browserify": "^13.0.1",
+    "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
+    "mockjs": "^1.0.1-beta2",
+    "node-jsx": "^0.13.3",
+    "react-tools": "^0.13.3",
+    "reactify": "^1.1.1"
+  }
+}
