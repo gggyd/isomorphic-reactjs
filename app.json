@@ -1,0 +1,15 @@
+{
+  "name": "isomorphic-reactjs",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
